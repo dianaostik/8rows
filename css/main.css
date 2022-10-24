@@ -1,0 +1,32 @@
+.row1 {
+    background-color: #1aa1e3;
+}
+
+.row2 {
+    background-color: #008a00;
+}
+
+.row3 {
+    background-color: #0050f0; 
+}
+
+.row4 {
+    background-color: #6a00ff; 
+}
+
+.row5 {
+    background-color: #aa00ff; 
+}
+
+.row6 {
+    background-color: #d80073; 
+}
+.row7 {
+    background-color: #a20025; 
+}
+
+.row > * {
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
